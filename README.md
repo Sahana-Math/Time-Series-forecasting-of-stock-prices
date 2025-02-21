@@ -41,4 +41,5 @@ git clone git@github.com:Sahana-Math/Time-Series-forecasting-of-stock-prices.git
 The project generates the following outputs:
   1. Forecasted closing stock prices using the SARIMAX model.
   2. Predicted trading strategies using the XGBoost classifier.
-  3. Performance evaluation metrics for both the forecasting and classification tasks. 
+  3. Performance evaluation metrics for both the forecasting and classification tasks.
+
